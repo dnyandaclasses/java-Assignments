@@ -1,3 +1,19 @@
+/*   Author : Dnyanda Engineering Classes
+     Description:     
+	1234567
+	 234567
+	  34567
+	   4567
+	    567
+	     67
+	      7
+	     67
+	    567
+	   4567
+	  34567
+	 234567
+	1234567 
+*/
 class Pattern5
 {
 	public static void main(String args[])
