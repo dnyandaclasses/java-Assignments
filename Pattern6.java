@@ -1,3 +1,14 @@
+/*   Author : Dnyanda Engineering Classes
+     Description:     
+	1
+	10
+	101
+	1010
+	10101
+	101010
+	1010101
+
+*/
 class Pattern6
 {
 	public static void main(String args[])
