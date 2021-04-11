@@ -1,3 +1,14 @@
+/*   Author : Dnyanda Engineering Classes
+     Description:     
+	7654321
+	654321
+	54321
+	4321
+	321
+	21
+	1
+
+*/
 class Pattern3
 {
 	public static void main(String args[])
